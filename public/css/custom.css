@@ -1,0 +1,1 @@
+.logo-animation{display:inline-block;color:#4b5d86;animation-name:clockAnim;animation-duration:4s;animation-iteration-count:infinite;font-weight:500}@keyframes clockAnim{0%{transform:rotate(17deg)}50%{transform:rotate(-35deg)}100%{transform:rotate(17deg)}}
